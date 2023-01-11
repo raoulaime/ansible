@@ -1,6 +1,6 @@
 ---
 - name: Install and check httpd package
-  hosts: all
+  hosts: webservers
   gather_facts: true
   tasks:
   - name: Check httpd installed and up to date 
