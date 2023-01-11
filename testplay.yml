@@ -2,7 +2,6 @@
 - name: Test AWS Connection
   hosts: all
   gather_facts: true
-  become: yes
   tasks:
   - name: Check httpd installed and up to date 
     ansible.builtin.dnf:
