@@ -6,4 +6,3 @@
   collections:
     - awx.awx
     - infra.ah_configuration
-    
