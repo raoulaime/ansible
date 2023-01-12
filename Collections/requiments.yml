@@ -1,5 +1,0 @@
----
-collections:
-  - name: redhat_cop.controller_configuration
-    # If you need a specific version of the collection, you can specify like this:
-    # version: ...
